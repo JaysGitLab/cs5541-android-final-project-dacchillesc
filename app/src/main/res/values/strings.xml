@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pocket Turchin Admin</string>
+    <string name="title_activity_exhibit">ExhibitActivity</string>
+    <string name="exhibit_title_hint">Enter a title for the crime.</string>
+    <string name="exhibit_title_label">Title</string>
+    <string name="exhibit_details_label">Details</string>
+    <string name="exhibits_title">Exhibits</string>
+    <string name="date_picker_title">Date:</string>
+    <string name="new_exhibit">New Exhibits</string>
+    <string name="delete_exhibit">Delete</string>
+    <string name="text_view">Currently no known exhibits.</string>
+    <string name="about">About</string>
+    <string name="mission_statement_title">Mission Statement</string>
+    <string name="mission_statement_body">The Turchin Center for the Visual Arts at Appalachian State University engages visitors from the university, community, nation and beyond in creating unique experiences through dynamic and accessible exhibition, education, outreach and collection programs. These programs inspire and support a lifelong engagement with the visual arts and create opportunities for participants to learn more about themselves and the world around them.</string>
+    <string name="vision_statement_title">Vision Statement</string>
+    <string name="vision_statement_body">The Turchin Center for the Visual Arts at Appalachian State University engages visitors from the university, community, nation and beyond in creating unique experiences through dynamic and accessible exhibition, education, outreach and collection programs. These programs inspire and support a lifelong engagement with the visual arts and create opportunities for participants to learn more about themselves and the world around them.</string>
+    <string name="app_copyright">Copyright 2016, Stephen Dacchille
+Student, Appalachian State University
+CS 5541 Mobile Device Programming Project</string>
+    <string name="image_loc">/storage/sdcard/Android/data/com.bignerdranch.android.pocketturchinadmin/files</string>
+    <string name="dropBoxClient">kvf0axlvdbjw0gf</string>
+    <string name="dropBoxSecretKey">5fkbgkeyqucjttx</string>
+</resources>

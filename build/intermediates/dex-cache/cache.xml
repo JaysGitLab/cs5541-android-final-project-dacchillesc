@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_e3d4987ee8df2177350ac4728e47d3c0e65606cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Android Studio 2.2.3/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_81d2edf009cf8957f04a6419f1024354237ff73e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cc026ebb36bdecf8e310fb28f95b6c16b79f8165/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_e26b494eca94fb36420c0beb4466a99fc110ecf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_1f0abcc46980ce5e165a36de20ed0691ab18c00a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_a72fd03f0d81219d919691c9ceb932e109784b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.cloudrail/cloudrail-si-android/2.8.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8667a61cf6b70ce2a158d36288481580a46abb6">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.cloudrail-cloudrail-si-android-2.8.2_3d4227d2b596ef79399fd8185cafa1edc6ecb320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0509eaa0841aec5b18c867c3c71adb80a10f3a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_cc6e1c4372719cdd4c1aff2c42c59246d6f140ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_107a40199ea21e033c27fddc7b627f266fc6aa6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_7f0d77a1b5f6bf28b88166bd1e83a767a9d92c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_4f6d723cbd4e9bfbd29c4c291cf57da92a538011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a48349850f2b444df0fc2448eb1ba7c4079cf36e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_384dfe93c4e3a6d6d8e4a8472de3eb496070752b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cb58d6fff53880c9156da447a8a21d6831f542ad">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5bc83b411dc804f511f986e287cce4991e294f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_358fef237375b5d7a76c00a1ee50b04663d6d42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4bf8fb52f48b52c1f16ef0da0cf00d606370ed00">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3fb27c9b03c2d33d2893951c1a740bdc2273e72b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_7d5f633c89b4992cc98b3ce481f79e3707002581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2720ba46ddb96f7a7792295c14821cb855a93294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfenwick/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_87e631689f2326a9a5675a971af6f5b11cbb72f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_b86e5518d73c24791c26992a2a113da7f39455d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_89cd4572e3daf887d0fe352e7dc67de09c2a4467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_7621ba96735148678c0f8ec5fd0ac19afe58eccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_9e51b35d39ab205dce62da85716ee5edb7c0be6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1787eff282881e8b9758d1a70afffa6dd8b031a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.nbsp/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7815eae61f9359cf3ca861b35185557eee6494bf">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nbsp-library-1.1_519898ab6872207e02627df5d8e7ad7110aa854f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b089af68789c8cf1c1e13762a16f77ed0f5f867c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Volumes/SCDUSB3/SCD/School/ASU/CS5541/AdStProj/PocketTurchinAdmin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_a373f053dac3b01dfd24d18fc7ab7864aa6ea01e/classes.dex" />
+    </item>
+
+</items>

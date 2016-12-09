@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/common_google_signin_btn_text_dark_default">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/exhibit_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/get_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Get Image"/>
+        <EditText
+            android:id="@+id/exhibit_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+        <EditText
+            android:id="@+id/exhibit_artist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+        <EditText
+            android:id="@+id/exhibit_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+        <EditText
+            android:id="@+id/exhibit_id"
+            android:maxLength="4"
+            android:digits="0123456789"
+            android:inputType="numberDecimal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/exhibit_gallery_time"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <Button
+            android:id="@+id/exhibit_start_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/colorAccent"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/exhibit_end_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/black"
+            android:background="@color/colorAccent"/>
+
+        <EditText
+            android:id="@+id/exhibit_short_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/exhibit_full_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+</ScrollView>
